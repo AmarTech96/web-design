@@ -1,0 +1,47 @@
+
+p{
+	color:blue;
+	
+}
+a{
+    align-items:center;
+    color:white;
+    background-color:#FF3399;
+    padding:5px 15px 5px 15px;
+    text-decoration:none;
+    border-radius:25px;
+    display: block;
+    width: 130px;
+    }
+
+    html {
+        height: 100%;
+        border:5px solid gray;
+      }
+      a:active,a:focus,a:visited,a:link{
+          text-decoration:none;
+      }
+
+
+
+#ftr{
+	position: absolute;
+	bottom:0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    background-color:gray;
+	color:white;
+    text-align: center;
+    
+
+	
+}
+#marq{
+    position: absolute;
+    right: 0;
+    left: 0;
+}
+
+
